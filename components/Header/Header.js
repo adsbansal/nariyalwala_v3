@@ -31,7 +31,7 @@ export const Header = () => {
                     <ButtonGroup className="hidden md:block">
                         <a
                             role="button"
-                            href="https://avenuelabs.lemonsqueezy.com/checkout/buy/df8ccd46-fa63-4384-b2aa-c4c9b8ad3ef0?embed=1"
+                            href="https://airtable.com/appYYOVUtVpo43nRa/shryl6XxSSKtPGN5w"
                             className="btn btn--secondary bg-green-700 text-white hover:bg-green-800 ml-4"
                         >
                             Subscribe

@@ -38,7 +38,7 @@ export const HomeBanner = () => {
                             <Button href="#features">Features</Button>
                             <a
                                 role="button"
-                                href="https://airtable.com"
+                                href="https://airtable.com/appYYOVUtVpo43nRa/shryl6XxSSKtPGN5w"
                                 className="btn btn--secondary bg-green-700 text-white hover:bg-green-800"
                             >
                                 Subscribe
